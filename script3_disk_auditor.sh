@@ -1,7 +1,7 @@
 #!/bin/bash
 # script3_disk_auditor.sh
-# Author: Aditya Gupta
-# Roll Number: 24BCE10151
+# Author: Harsh Srivastava
+# Roll Number: 24BCE10090
 # Purpose: Audit important directories for size and permissions, and check Git config
 
 echo "==========================================="
